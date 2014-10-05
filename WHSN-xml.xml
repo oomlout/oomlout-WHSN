@@ -1,0 +1,13 @@
+ <xml>
+	<basics>
+		<template>PROJ-template.tmpl</template>
+		<output>web/index.html</output>
+	</basics>
+	
+	<about>
+		<name>Header Snapper Tool</name>
+		<description>It's easiest to buy headers in snappable lengths of 36 pins, however we often need other lengths. We made a little tool to help us out. 
+(for more details and how to build your own <a href="http://oomlout.co.uk/blog/WHSN">http://oomlout.co.uk/blog/WHSN</a> )</description>
+	</about>
+	
+</xml>
