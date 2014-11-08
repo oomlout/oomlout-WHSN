@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <!-- Creator: CorelDRAW -->
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="753.773mm" height="243.85mm" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
-viewBox="0 0 1237.06 400.195"
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="210mm" height="297mm" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 210 297"
  xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
   <font id="FontID1" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="400">
@@ -53,273 +53,273 @@ viewBox="0 0 1237.06 400.195"
    <![CDATA[
     @font-face { font-family:"Arial";src:url("#FontID1") format(svg)}
     @font-face { font-family:"Eng_HelvLine";src:url("#FontID0") format(svg)}
-    .str1 {stroke:#1F1A17;stroke-width:0.125056}
-    .str2 {stroke:#1F1A17;stroke-width:0.125056;stroke-linecap:round;stroke-linejoin:round}
-    .str4 {stroke:#E77817;stroke-width:0.125056}
-    .str0 {stroke:#1F1A17;stroke-width:0.32823}
-    .str6 {stroke:#E77817;stroke-width:0.32823}
-    .str3 {stroke-width:8.99991}
+    .str1 {stroke:#1F1A17;stroke-width:0.0762}
+    .str2 {stroke:#1F1A17;stroke-width:0.0762;stroke-linecap:round;stroke-linejoin:round}
+    .str4 {stroke:#E77817;stroke-width:0.0762}
+    .str0 {stroke:#1F1A17;stroke-width:0.2}
+    .str6 {stroke:#E77817;stroke-width:0.2}
+    .str3 {stroke-width:9}
     .str5 {stroke-width:18.0001}
     .fil0 {fill:none}
     .fil3 {fill:#0093DD}
     .fil2 {fill:#1F1A17}
     .fil1 {fill:#FFF500}
-    .fnt1 {font-weight:normal;font-size:6.94749;font-family:'Eng_HelvLine'}
-    .fnt3 {font-weight:normal;font-size:6.94749;font-family:'Eng_HelvLine'}
-    .fnt2 {font-weight:normal;font-size:13.8951;font-family:'Arial'}
-    .fnt0 {font-weight:normal;font-size:13.8951;font-family:'Eng_HelvLine'}
+    .fnt1 {font-weight:normal;font-size:4.2333;font-family:'Eng_HelvLine'}
+    .fnt3 {font-weight:normal;font-size:4.2333;font-family:'Eng_HelvLine'}
+    .fnt2 {font-weight:normal;font-size:8.4667;font-family:'Arial'}
+    .fnt0 {font-weight:normal;font-size:8.4667;font-family:'Eng_HelvLine'}
    ]]>
   </style>
  </defs>
  <g id="Layer_x0020_1">
   <metadata id="CorelCorpID_0Corel-Layer"/>
-  <g id="_162139080">
-   <path id="_161129416" class="fil0 str0" d="M114.302 261.517l0 -98.4691c0,-4.53122 3.67454,-8.20576 8.20576,-8.20576l164.115 0c4.53122,0 8.20576,3.67454 8.20576,8.20576l0 98.4691c0,4.53122 -3.67454,8.20576 -8.20576,8.20576l-164.115 0c-4.53122,0 -8.20576,-3.67454 -8.20576,-8.20576z"/>
+  <g id="_169862312">
+   <path id="_169861328" class="fil0 str0" d="M-55 400l0 -60c0,-2.761 2.239,-5 5,-5l100 0c2.761,0 5,2.239 5,5l0 60c0,2.761 -2.239,5 -5,5l-100 0c-2.761,0 -5,-2.239 -5,-5z"/>
    <g>
-    <circle id="_161127664" class="fil0 str0" cx="261.378" cy="212.283" r="2.54378"/>
-    <circle id="_162139464" class="fil0 str0" cx="219.693" cy="212.283" r="2.54378"/>
-    <circle id="_162139392" class="fil0 str0" cx="253.041" cy="212.283" r="2.54378"/>
-    <circle id="_162139536" class="fil0 str0" cx="244.704" cy="212.283" r="2.54378"/>
-    <circle id="_162138240" class="fil0 str0" cx="236.367" cy="212.283" r="2.54378"/>
-    <circle id="_162138840" class="fil0 str0" cx="228.03" cy="212.283" r="2.54378"/>
-    <circle id="_162137976" class="fil0 str0" cx="211.356" cy="212.283" r="2.54378"/>
-    <circle id="_162138864" class="fil0 str0" cx="203.019" cy="212.283" r="2.54378"/>
-    <circle id="_162138936" class="fil0 str0" cx="194.682" cy="212.283" r="2.54378"/>
-    <circle id="_162138912" class="fil0 str0" cx="186.345" cy="212.283" r="2.54378"/>
-    <circle id="_162139176" class="fil0 str0" cx="178.008" cy="212.283" r="2.54378"/>
-    <circle id="_162139296" class="fil0 str0" cx="169.671" cy="212.283" r="2.54378"/>
-    <circle id="_162139584" class="fil0 str0" cx="161.334" cy="212.283" r="2.54378"/>
-    <circle id="_162138480" class="fil0 str0" cx="269.715" cy="212.283" r="2.54378"/>
-    <circle id="_162139728" class="fil0 str0" cx="278.052" cy="212.283" r="2.54378"/>
-   </g>
-   <g>
-    <circle id="_162139632" class="fil0 str0" cx="281.7" cy="256.594" r="4.92337"/>
-    <circle id="_162139440" class="fil0 str0" cx="127.431" cy="256.594" r="4.92337"/>
-    <circle id="_162138192" class="fil0 str0" cx="127.431" cy="167.972" r="4.92337"/>
-    <circle id="_162138576" class="fil0 str0" cx="281.7" cy="167.972" r="4.92337"/>
-   </g>
-  </g>
-  <g id="_163276272">
-   <rect id="_162139320" class="fil1 str1" x="1159.33" y="82.9608" width="1.09957" height="19.0384"/>
-   <rect id="_162138552" class="fil1 str1" x="1163.49" y="82.9608" width="1.09957" height="19.0384"/>
-   <rect id="_162139272" class="fil1 str1" x="1167.66" y="82.9608" width="1.09957" height="19.0384"/>
-   <rect id="_162139224" class="fil1 str1" x="1171.83" y="82.9608" width="1.09957" height="19.0384"/>
-   <rect id="_162139248" class="fil1 str1" x="1176" y="82.9608" width="1.09957" height="19.0384"/>
-   <rect id="_162138312" class="fil1 str1" x="1180.17" y="82.9608" width="1.09957" height="19.0384"/>
-   <rect id="_162138384" class="fil1 str1" x="1184.34" y="82.9608" width="1.09957" height="19.0384"/>
-   <rect id="_162139008" class="fil1 str1" x="1130.15" y="82.9608" width="1.09957" height="19.0384"/>
-   <rect id="_162138696" class="fil1 str1" x="1134.31" y="82.9608" width="1.09957" height="19.0384"/>
-   <rect id="_162138960" class="fil1 str1" x="1138.48" y="82.9608" width="1.09957" height="19.0384"/>
-   <rect id="_162139608" class="fil1 str1" x="1142.65" y="82.9608" width="1.09957" height="19.0384"/>
-   <rect id="_162138744" class="fil1 str1" x="1146.82" y="82.9608" width="1.09957" height="19.0384"/>
-   <rect id="_162138528" class="fil1 str1" x="1150.99" y="82.9608" width="1.09957" height="19.0384"/>
-   <rect id="_162138048" class="fil1 str1" x="1155.16" y="82.9608" width="1.09957" height="19.0384"/>
-   <rect id="_163275768" class="fil1 str1" x="1125.98" y="82.9608" width="1.09957" height="19.0384"/>
-   <rect id="_163278288" class="fil1 str1" x="1109.3" y="82.9608" width="1.09957" height="19.0384"/>
-   <rect id="_163276848" class="fil1 str1" x="1113.47" y="82.9608" width="1.09957" height="19.0384"/>
-   <rect id="_163276920" class="fil1 str1" x="1117.64" y="82.9608" width="1.09957" height="19.0384"/>
-   <rect id="_163277016" class="fil1 str1" x="1121.81" y="82.9608" width="1.09957" height="19.0384"/>
-   <rect id="_163278336" class="fil1 str1" x="1105.14" y="82.9608" width="1.09957" height="19.0384"/>
-   <rect id="_163278840" class="fil1 str1" x="1088.46" y="82.9608" width="1.09957" height="19.0384"/>
-   <rect id="_163278024" class="fil1 str1" x="1092.63" y="82.9608" width="1.09957" height="19.0384"/>
-   <rect id="_163278120" class="fil1 str1" x="1096.8" y="82.9608" width="1.09957" height="19.0384"/>
-   <rect id="_163276440" class="fil1 str1" x="1100.97" y="82.9608" width="1.09957" height="19.0384"/>
-   <rect id="_163276632" class="fil1 str1" x="1192.67" y="82.9608" width="1.09957" height="19.0384"/>
-   <rect id="_163278264" class="fil1 str1" x="1196.84" y="82.9608" width="1.09957" height="19.0384"/>
-   <rect id="_163278408" class="fil1 str1" x="1201.01" y="82.9608" width="1.09957" height="19.0384"/>
-   <rect id="_163277784" class="fil1 str1" x="1205.18" y="82.9608" width="1.09957" height="19.0384"/>
-   <rect id="_163276080" class="fil1 str1" x="1188.51" y="82.9608" width="1.09957" height="19.0384"/>
-   <rect id="_163278480" class="fil1 str1" x="1213.52" y="82.9608" width="1.09957" height="19.0384"/>
-   <rect id="_163277736" class="fil1 str1" x="1217.69" y="82.9608" width="1.09957" height="19.0384"/>
-   <rect id="_163277544" class="fil1 str1" x="1221.85" y="82.9608" width="1.09957" height="19.0384"/>
-   <rect id="_163277448" class="fil1 str1" x="1226.02" y="82.9608" width="1.09957" height="19.0384"/>
-   <rect id="_163277088" class="fil1 str1" x="1209.35" y="82.9608" width="1.09957" height="19.0384"/>
-   <rect id="_163277160" class="fil1 str1" x="1234.36" y="82.9608" width="1.09957" height="19.0384"/>
-   <rect id="_163277280" class="fil1 str1" x="1230.19" y="82.9608" width="1.09957" height="19.0384"/>
-   <polygon id="_163277856" class="fil2 str2" points="1086.93,91.904 1236.99,91.904 1236.99,87.8011 1086.93,87.8011 "/>
-  </g>
-  <text x="721.233" y="146.73"  class="fil0 str4 fnt0">WHSN-L</text>
-  <path class="fil0 str0" d="M623.059 141.713l0 -98.4691c0,-4.53122 3.67454,-8.20576 8.20576,-8.20576l164.115 0c4.53122,0 8.20576,3.67454 8.20576,8.20576l0 98.4691c0,4.53122 -3.67454,8.20576 -8.20576,8.20576l-164.115 0c-4.53122,0 -8.20576,-3.67454 -8.20576,-8.20576z"/>
-  <g id="_163278720">
-   <text x="759.759" y="78.3157" id="_163277328" class="fil0 str4 fnt1">6</text>
-   <text x="716.316" y="79.1258" id="_163277424" class="fil0 str4 fnt1">16</text>
-   <line id="_163277664" class="fil0 str6" x1="761.798" y1="82.2217" x2="761.798" y2= "102.736" />
-  </g>
-  <g id="_163922160">
-   <circle id="_163276896" class="fil0 str0" cx="770.135" cy="92.4789" r="2.54378"/>
-   <circle id="_163277760" class="fil0 str0" cx="728.45" cy="92.4789" r="2.54378"/>
-   <circle id="_163278960" class="fil0 str0" cx="761.798" cy="92.4789" r="2.54378"/>
-   <circle id="_163276656" class="fil0 str0" cx="753.461" cy="92.4789" r="2.54378"/>
-   <circle id="_163278192" class="fil0 str0" cx="745.124" cy="92.4789" r="2.54378"/>
-   <circle id="_163278072" class="fil0 str0" cx="736.787" cy="92.4789" r="2.54378"/>
-   <circle id="_163278816" class="fil0 str0" cx="720.113" cy="92.4789" r="2.54378"/>
-   <circle id="_163278768" class="fil0 str0" cx="711.776" cy="92.4789" r="2.54378"/>
-   <circle id="_163278504" class="fil0 str0" cx="703.439" cy="92.4789" r="2.54378"/>
-   <circle id="_163276152" class="fil0 str0" cx="695.102" cy="92.4789" r="2.54378"/>
-   <circle id="_163278360" class="fil0 str0" cx="686.765" cy="92.4789" r="2.54378"/>
-   <circle id="_163924872" class="fil0 str0" cx="678.428" cy="92.4789" r="2.54378"/>
-   <circle id="_163922592" class="fil0 str0" cx="670.091" cy="92.4789" r="2.54378"/>
-   <circle id="_163922376" class="fil0 str0" cx="778.472" cy="92.4789" r="2.54378"/>
-   <circle id="_163922256" class="fil0 str0" cx="786.809" cy="92.4789" r="2.54378"/>
-  </g>
-  <line class="fil0 str6" x1="720.113" y1="82.2217" x2="720.113" y2= "102.736" />
-  <text x="674.079" y="79.1258"  class="fil0 str4 fnt1">26</text>
-  <line class="fil0 str6" x1="678.428" y1="82.2217" x2="678.428" y2= "102.736" />
-  <path class="fil0 str0" d="M623.059 266.769l0 -98.4691c0,-4.53122 3.67454,-8.20576 8.20576,-8.20576l164.115 0c4.53122,0 8.20576,3.67454 8.20576,8.20576l0 98.4691c0,4.53122 -3.67454,8.20576 -8.20576,8.20576l-164.115 0c-4.53122,0 -8.20576,-3.67454 -8.20576,-8.20576z"/>
-  <circle class="fil0 str0" cx="770.135" cy="217.535" r="2.54378"/>
-  <circle class="fil0 str0" cx="728.45" cy="217.535" r="2.54378"/>
-  <circle class="fil0 str0" cx="761.798" cy="217.535" r="2.54378"/>
-  <circle class="fil0 str0" cx="753.461" cy="217.535" r="2.54378"/>
-  <circle class="fil0 str0" cx="745.124" cy="217.535" r="2.54378"/>
-  <circle class="fil0 str0" cx="736.787" cy="217.535" r="2.54378"/>
-  <circle class="fil0 str0" cx="720.113" cy="217.535" r="2.54378"/>
-  <circle class="fil0 str0" cx="711.776" cy="217.535" r="2.54378"/>
-  <circle class="fil0 str0" cx="703.439" cy="217.535" r="2.54378"/>
-  <circle class="fil0 str0" cx="695.102" cy="217.535" r="2.54378"/>
-  <circle class="fil0 str0" cx="686.765" cy="217.535" r="2.54378"/>
-  <circle class="fil0 str0" cx="678.428" cy="217.535" r="2.54378"/>
-  <circle class="fil0 str0" cx="670.091" cy="217.535" r="2.54378"/>
-  <circle class="fil0 str0" cx="778.472" cy="217.535" r="2.54378"/>
-  <circle class="fil0 str0" cx="786.809" cy="217.535" r="2.54378"/>
-  <path class="fil0 str0" d="M623.059 391.825l0 -37.11 180.527 0 0 37.11c0,4.53122 -3.67454,8.20576 -8.20576,8.20576l-164.115 0c-4.53122,0 -8.20576,-3.67454 -8.20576,-8.20576zm0 -61.3592l0 -37.1099c0,-4.53122 3.67454,-8.20576 8.20576,-8.20576l164.115 0c4.53122,0 8.20576,3.67454 8.20576,8.20576l0 37.1099 -180.527 0z"/>
-  <path class="fil0 str0" d="M114.302 381.322l0 -38.9773 180.527 0 0 38.9773c0,4.53122 -3.67454,8.20576 -8.20576,8.20576l-164.115 0c-4.53122,0 -8.20576,-3.67454 -8.20576,-8.20576zm0 -59.4917l0 -38.9773c0,-4.53122 3.67454,-8.20576 8.20576,-8.20576l164.115 0c4.53122,0 8.20576,3.67454 8.20576,8.20576l0 38.9773 -180.527 0z"/>
-  <g id="_165340088">
-   <rect id="_163921728" class="fil1 str1" x="900.648" y="80.3558" width="1.09957" height="24.249"/>
-   <rect id="_163921512" class="fil1 str1" x="904.817" y="80.3558" width="1.09957" height="24.249"/>
-   <rect id="_163921296" class="fil1 str1" x="908.985" y="80.3558" width="1.09957" height="24.249"/>
-   <rect id="_163921104" class="fil1 str1" x="913.154" y="80.3558" width="1.09957" height="24.249"/>
-   <rect id="_163924008" class="fil1 str1" x="917.323" y="80.3558" width="1.09957" height="24.249"/>
-   <rect id="_163923528" class="fil1 str1" x="921.491" y="80.3558" width="1.09957" height="24.249"/>
-   <rect id="_163923048" class="fil1 str1" x="925.66" y="80.3558" width="1.09957" height="24.249"/>
-   <rect id="_163922880" class="fil1 str1" x="871.469" y="80.3558" width="1.09957" height="24.249"/>
-   <rect id="_163923336" class="fil1 str1" x="875.637" y="80.3558" width="1.09957" height="24.249"/>
-   <rect id="_163923024" class="fil1 str1" x="879.806" y="80.3558" width="1.09957" height="24.249"/>
-   <rect id="_163922808" class="fil1 str1" x="883.974" y="80.3558" width="1.09957" height="24.249"/>
-   <rect id="_163923696" class="fil1 str1" x="888.143" y="80.3558" width="1.09957" height="24.249"/>
-   <rect id="_163923816" class="fil1 str1" x="892.311" y="80.3558" width="1.09957" height="24.249"/>
-   <rect id="_163923120" class="fil1 str1" x="896.48" y="80.3558" width="1.09957" height="24.249"/>
-   <rect id="_163921776" class="fil1 str1" x="867.3" y="80.3558" width="1.09957" height="24.249"/>
-   <rect id="_163921320" class="fil1 str1" x="850.626" y="80.3558" width="1.09957" height="24.249"/>
-   <rect id="_163921392" class="fil1 str1" x="854.795" y="80.3558" width="1.09957" height="24.249"/>
-   <rect id="_163924200" class="fil1 str1" x="858.963" y="80.3558" width="1.09957" height="24.249"/>
-   <rect id="_163920936" class="fil1 str1" x="863.132" y="80.3558" width="1.09957" height="24.249"/>
-   <rect id="_163924296" class="fil1 str1" x="846.458" y="80.3558" width="1.09957" height="24.249"/>
-   <rect id="_163924440" class="fil1 str1" x="829.784" y="80.3558" width="1.09957" height="24.249"/>
-   <rect id="_163924104" class="fil1 str1" x="833.952" y="80.3558" width="1.09957" height="24.249"/>
-   <rect id="_163924536" class="fil1 str1" x="838.121" y="80.3558" width="1.09957" height="24.249"/>
-   <rect id="_163921128" class="fil1 str1" x="842.289" y="80.3558" width="1.09957" height="24.249"/>
-   <rect id="_163923072" class="fil1 str1" x="933.997" y="80.3558" width="1.09957" height="24.249"/>
-   <rect id="_163924032" class="fil1 str1" x="938.165" y="80.3558" width="1.09957" height="24.249"/>
-   <rect id="_163923840" class="fil1 str1" x="942.334" y="80.3558" width="1.09957" height="24.249"/>
-   <rect id="_163922544" class="fil1 str1" x="946.502" y="80.3558" width="1.09957" height="24.249"/>
-   <rect id="_163921200" class="fil1 str1" x="929.828" y="80.3558" width="1.09957" height="24.249"/>
-   <rect id="_163924368" class="fil1 str1" x="954.839" y="80.3558" width="1.09957" height="24.249"/>
-   <rect id="_163923312" class="fil1 str1" x="959.008" y="80.3558" width="1.09957" height="24.249"/>
-   <rect id="_163923576" class="fil1 str1" x="963.176" y="80.3558" width="1.09957" height="24.249"/>
-   <rect id="_163923768" class="fil1 str1" x="967.345" y="80.3558" width="1.09957" height="24.249"/>
-   <rect id="_163923288" class="fil1 str1" x="950.671" y="80.3558" width="1.09957" height="24.249"/>
-   <rect id="_163924080" class="fil1 str1" x="975.682" y="80.3558" width="1.09957" height="24.249"/>
-   <rect id="_165340184" class="fil1 str1" x="971.513" y="80.3558" width="1.09957" height="24.249"/>
-   <polygon id="_165340112" class="fil2 str2" points="828.249,94.5093 978.316,94.5093 978.316,90.4064 828.249,90.4064 "/>
-  </g>
-  <g id="_165339872">
-   <circle id="_165340040" class="fil0 str0" cx="281.7" cy="376.398" r="4.92337"/>
-   <circle id="_165339992" class="fil0 str0" cx="127.431" cy="376.398" r="4.92337"/>
-   <circle id="_165339944" class="fil0 str0" cx="127.431" cy="287.776" r="4.92337"/>
-   <circle id="_165339896" class="fil0 str0" cx="281.7" cy="287.776" r="4.92337"/>
-  </g>
-  <g id="_165339656">
-   <circle id="_165339824" class="fil0 str0" cx="790.457" cy="136.79" r="4.92337"/>
-   <circle id="_165339776" class="fil0 str0" cx="636.188" cy="136.79" r="4.92337"/>
-   <circle id="_165339728" class="fil0 str0" cx="636.188" cy="48.1678" r="4.92337"/>
-   <circle id="_165339680" class="fil0 str0" cx="790.457" cy="48.1678" r="4.92337"/>
-  </g>
-  <g id="_165339440">
-   <circle id="_165339608" class="fil0 str0" cx="790.457" cy="261.846" r="4.92337"/>
-   <circle id="_165339560" class="fil0 str0" cx="636.188" cy="261.846" r="4.92337"/>
-   <circle id="_165339512" class="fil0 str0" cx="636.188" cy="173.224" r="4.92337"/>
-   <circle id="_165339464" class="fil0 str0" cx="790.457" cy="173.224" r="4.92337"/>
-  </g>
-  <g id="_165339224">
-   <circle id="_165339392" class="fil0 str0" cx="790.457" cy="386.901" r="4.92337"/>
-   <circle id="_165339344" class="fil0 str0" cx="636.188" cy="386.901" r="4.92337"/>
-   <circle id="_165339296" class="fil0 str0" cx="636.188" cy="298.279" r="4.92337"/>
-   <circle id="_165339248" class="fil0 str0" cx="790.457" cy="298.279" r="4.92337"/>
-  </g>
-  <g id="_165337088">
-   <text x="204.271" y="141.806" id="_165339104" class="fil0 str4 fnt0">WHSN</text>
-   <path id="_165339056" class="fil0 str0" d="M114.302 141.713l0 -98.4691c0,-4.53122 3.67454,-8.20576 8.20576,-8.20576l164.115 0c4.53122,0 8.20576,3.67454 8.20576,8.20576l0 98.4691c0,4.53122 -3.67454,8.20576 -8.20576,8.20576l-164.115 0c-4.53122,0 -8.20576,-3.67454 -8.20576,-8.20576z"/>
-   <g>
-    <text x="251.002" y="78.3157" id="_165338936" class="fil0 str4 fnt1">6</text>
-    <text x="207.559" y="79.1258" id="_165338816" class="fil0 str4 fnt1">16</text>
-    <line id="_165338744" class="fil0 str6" x1="253.041" y1="82.2217" x2="253.041" y2= "102.736" />
+    <circle id="_169859264" class="fil0 str0" cx="34.6175" cy="370" r="1.55"/>
+    <circle id="_169859120" class="fil0 str0" cx="9.2175" cy="370" r="1.55"/>
+    <circle id="_169858976" class="fil0 str0" cx="29.5375" cy="370" r="1.55"/>
+    <circle id="_169858832" class="fil0 str0" cx="24.4575" cy="370" r="1.55"/>
+    <circle id="_169858688" class="fil0 str0" cx="19.3775" cy="370" r="1.55"/>
+    <circle id="_169864544" class="fil0 str0" cx="14.2975" cy="370" r="1.55"/>
+    <circle id="_169864568" class="fil0 str0" cx="4.1375" cy="370" r="1.55"/>
+    <circle id="_169864712" class="fil0 str0" cx="-0.9425" cy="370" r="1.55"/>
+    <circle id="_169864832" class="fil0 str0" cx="-6.0225" cy="370" r="1.55"/>
+    <circle id="_169864760" class="fil0 str0" cx="-11.1025" cy="370" r="1.55"/>
+    <circle id="_169865096" class="fil0 str0" cx="-16.1825" cy="370" r="1.55"/>
+    <circle id="_169865216" class="fil0 str0" cx="-21.2625" cy="370" r="1.55"/>
+    <circle id="_169865360" class="fil0 str0" cx="-26.3425" cy="370" r="1.55"/>
+    <circle id="_169865408" class="fil0 str0" cx="39.6975" cy="370" r="1.55"/>
+    <circle id="_169861928" class="fil0 str0" cx="44.7775" cy="370" r="1.55"/>
    </g>
    <g>
-    <circle id="_165338672" class="fil0 str0" cx="261.378" cy="92.4789" r="2.54378"/>
-    <circle id="_165338624" class="fil0 str0" cx="219.693" cy="92.4789" r="2.54378"/>
-    <circle id="_165338576" class="fil0 str0" cx="253.041" cy="92.4789" r="2.54378"/>
-    <circle id="_165338528" class="fil0 str0" cx="244.704" cy="92.4789" r="2.54378"/>
-    <circle id="_165338480" class="fil0 str0" cx="236.367" cy="92.4789" r="2.54378"/>
-    <circle id="_165338432" class="fil0 str0" cx="228.03" cy="92.4789" r="2.54378"/>
-    <circle id="_165338384" class="fil0 str0" cx="211.356" cy="92.4789" r="2.54378"/>
-    <circle id="_165338336" class="fil0 str0" cx="203.019" cy="92.4789" r="2.54378"/>
-    <circle id="_165338288" class="fil0 str0" cx="194.682" cy="92.4789" r="2.54378"/>
-    <circle id="_165338240" class="fil0 str0" cx="186.345" cy="92.4789" r="2.54378"/>
-    <circle id="_165338192" class="fil0 str0" cx="178.008" cy="92.4789" r="2.54378"/>
-    <circle id="_165338144" class="fil0 str0" cx="169.671" cy="92.4789" r="2.54378"/>
-    <circle id="_165338096" class="fil0 str0" cx="161.334" cy="92.4789" r="2.54378"/>
-    <circle id="_165338048" class="fil0 str0" cx="269.715" cy="92.4789" r="2.54378"/>
-    <circle id="_165338000" class="fil0 str0" cx="278.052" cy="92.4789" r="2.54378"/>
-   </g>
-   <line id="_165337904" class="fil0 str6" x1="211.356" y1="82.2217" x2="211.356" y2= "102.736" />
-   <text x="165.322" y="79.1258" id="_165337784" class="fil0 str4 fnt1">26</text>
-   <line id="_165337712" class="fil0 str6" x1="169.671" y1="82.2217" x2="169.671" y2= "102.736" />
-   <g>
-    <circle id="_165337664" class="fil0 str0" cx="281.7" cy="136.79" r="4.92337"/>
-    <circle id="_165337616" class="fil0 str0" cx="127.431" cy="136.79" r="4.92337"/>
-    <circle id="_165337568" class="fil0 str0" cx="127.431" cy="48.1678" r="4.92337"/>
-    <circle id="_165337520" class="fil0 str0" cx="281.7" cy="48.1678" r="4.92337"/>
-   </g>
-   <circle id="_165337448" class="fil0 str0" cx="152.997" cy="92.4789" r="2.54378"/>
-   <circle id="_165337400" class="fil0 str0" cx="144.66" cy="92.4789" r="2.54378"/>
-   <circle id="_165337352" class="fil0 str0" cx="136.323" cy="92.4789" r="2.54378"/>
-   <circle id="_165337304" class="fil0 str0" cx="127.986" cy="92.4789" r="2.54378"/>
-   <line id="_165337232" class="fil0 str6" x1="127.986" y1="82.2217" x2="127.986" y2= "102.736" />
-   <text x="123.661" y="79.1258" id="_165337112" class="fil0 str4 fnt1">36</text>
-  </g>
-  <g id="_165336416">
-   <polygon id="_165337040" class="fil0 str0" points="114.302,10.011 294.829,10.011 294.829,30.5254 114.302,30.5254 "/>
-   <g>
-    <circle id="_165336992" class="fil0 str0" cx="286.623" cy="20.2682" r="2.54378"/>
-    <circle id="_165336944" class="fil0 str0" cx="269.949" cy="20.2682" r="2.54378"/>
-   </g>
-   <line id="_165336848" class="fil0 str6" x1="278.286" y1="10.011" x2="278.286" y2= "30.5254" />
-   <text x="244.184" y="22.0989" id="_165336728" class="fil0 str4 fnt1">even</text>
-   <circle id="_165336680" class="fil0 str0" cx="126.677" cy="20.2682" r="2.54378"/>
-   <circle id="_165336632" class="fil0 str0" cx="143.351" cy="20.2682" r="2.54378"/>
-   <line id="_165336560" class="fil0 str6" x1="130.845" y1="30.5254" x2="130.845" y2= "10.011" />
-   <g transform="matrix(-1 -0 -0 -1 541.695 -134.155)">
-    <text x="376.887" y="-151.232" id="_165336440" class="fil0 str4 fnt1">odd</text>
+    <circle id="_169862696" class="fil0 str0" cx="46.9999" cy="397" r="2.99995"/>
+    <circle id="_169862984" class="fil0 str0" cx="-47.0001" cy="397" r="2.99995"/>
+    <circle id="_169862624" class="fil0 str0" cx="-47.0001" cy="343" r="2.99995"/>
+    <circle id="_169862336" class="fil0 str0" cx="46.9999" cy="343" r="2.99995"/>
    </g>
   </g>
-  <text x="80.3048" y="95.9596"  class="fil3 fnt2">top</text>
-  <text x="57.1416" y="215.764"  class="fil3 fnt2">bottom</text>
-  <text x="58.6886" y="335.568"  class="fil3 fnt2">middle</text>
-  <text x="-0" y="23.7489"  class="fil3 fnt2">adjustment stick</text>
-  <g id="_165334928">
-   <polygon id="_165335888" class="fil0 str0" points="802.56,23.9608 622.034,23.9608 622.034,0.164115 802.56,0.164115 "/>
+  <g id="_169862408">
+   <rect id="_169862888" class="fil1 str1" x="581.762" y="291.2" width="0.669997" height="11.6006"/>
+   <rect id="_169862264" class="fil1 str1" x="584.302" y="291.2" width="0.669997" height="11.6006"/>
+   <rect id="_169862216" class="fil1 str1" x="586.842" y="291.2" width="0.669997" height="11.6006"/>
+   <rect id="_169865336" class="fil1 str1" x="589.382" y="291.2" width="0.669997" height="11.6006"/>
+   <rect id="_169865120" class="fil1 str1" x="591.922" y="291.2" width="0.669997" height="11.6006"/>
+   <rect id="_169864856" class="fil1 str1" x="594.462" y="291.2" width="0.669997" height="11.6006"/>
+   <rect id="_169864640" class="fil1 str1" x="597.002" y="291.2" width="0.669997" height="11.6006"/>
+   <rect id="_169864376" class="fil1 str1" x="563.982" y="291.2" width="0.669997" height="11.6006"/>
+   <rect id="_169858712" class="fil1 str1" x="566.522" y="291.2" width="0.669997" height="11.6006"/>
+   <rect id="_169859000" class="fil1 str1" x="569.062" y="291.2" width="0.669997" height="11.6006"/>
+   <rect id="_169859288" class="fil1 str1" x="571.602" y="291.2" width="0.669997" height="11.6006"/>
+   <rect id="_169859576" class="fil1 str1" x="574.142" y="291.2" width="0.669997" height="11.6006"/>
+   <rect id="_169859864" class="fil1 str1" x="576.682" y="291.2" width="0.669997" height="11.6006"/>
+   <rect id="_169858328" class="fil1 str1" x="579.222" y="291.2" width="0.669997" height="11.6006"/>
+   <rect id="_169860176" class="fil1 str1" x="561.442" y="291.2" width="0.669997" height="11.6006"/>
+   <rect id="_169860512" class="fil1 str1" x="551.282" y="291.2" width="0.669997" height="11.6006"/>
+   <rect id="_169860464" class="fil1 str1" x="553.822" y="291.2" width="0.669997" height="11.6006"/>
+   <rect id="_169860752" class="fil1 str1" x="556.362" y="291.2" width="0.669997" height="11.6006"/>
+   <rect id="_169860872" class="fil1 str1" x="558.902" y="291.2" width="0.669997" height="11.6006"/>
+   <rect id="_169861808" class="fil1 str1" x="548.742" y="291.2" width="0.669997" height="11.6006"/>
+   <rect id="_169861136" class="fil1 str1" x="538.582" y="291.2" width="0.669997" height="11.6006"/>
+   <rect id="_169861112" class="fil1 str1" x="541.122" y="291.2" width="0.669997" height="11.6006"/>
+   <rect id="_169859672" class="fil1 str1" x="543.662" y="291.2" width="0.669997" height="11.6006"/>
+   <rect id="_169862024" class="fil1 str1" x="546.202" y="291.2" width="0.669997" height="11.6006"/>
+   <rect id="_169861088" class="fil1 str1" x="602.082" y="291.2" width="0.669997" height="11.6006"/>
+   <rect id="_169861208" class="fil1 str1" x="604.622" y="291.2" width="0.669997" height="11.6006"/>
+   <rect id="_169861904" class="fil1 str1" x="607.162" y="291.2" width="0.669997" height="11.6006"/>
+   <rect id="_169858640" class="fil1 str1" x="609.702" y="291.2" width="0.669997" height="11.6006"/>
+   <rect id="_169861664" class="fil1 str1" x="599.542" y="291.2" width="0.669997" height="11.6006"/>
+   <rect id="_169862144" class="fil1 str1" x="614.782" y="291.2" width="0.669997" height="11.6006"/>
+   <rect id="_169862168" class="fil1 str1" x="617.322" y="291.2" width="0.669997" height="11.6006"/>
+   <rect id="_169863944" class="fil1 str1" x="619.862" y="291.2" width="0.669997" height="11.6006"/>
+   <rect id="_169863704" class="fil1 str1" x="622.402" y="291.2" width="0.669997" height="11.6006"/>
+   <rect id="_169861712" class="fil1 str1" x="612.242" y="291.2" width="0.669997" height="11.6006"/>
+   <rect id="_169861544" class="fil1 str1" x="627.482" y="291.2" width="0.669997" height="11.6006"/>
+   <rect id="_169863224" class="fil1 str1" x="624.942" y="291.2" width="0.669997" height="11.6006"/>
+   <polygon id="_169863176" class="fil2 str2" points="537.648,296.65 629.087,296.65 629.087,294.15 537.648,294.15 "/>
+  </g>
+  <text x="314.82" y="330.057"  class="fil0 str4 fnt0">WHSN-L</text>
+  <path class="fil0 str0" d="M255 327l0 -60c0,-2.761 2.239,-5 5,-5l100 0c2.761,0 5,2.239 5,5l0 60c0,2.761 -2.239,5 -5,5l-100 0c-2.761,0 -5,-2.239 -5,-5z"/>
+  <g id="_169860368">
+   <text x="338.295" y="288.37" id="_169861304" class="fil0 str4 fnt1">6</text>
+   <text x="311.824" y="288.864" id="_169862720" class="fil0 str4 fnt1">16</text>
+   <line id="_169862192" class="fil0 str6" x1="339.538" y1="290.75" x2="339.538" y2= "303.25" />
+  </g>
+  <g id="_169858856">
+   <circle id="_169861016" class="fil0 str0" cx="344.617" cy="297" r="1.55"/>
+   <circle id="_169860848" class="fil0 str0" cx="319.217" cy="297" r="1.55"/>
+   <circle id="_169858232" class="fil0 str0" cx="339.537" cy="297" r="1.55"/>
+   <circle id="_169861784" class="fil0 str0" cx="334.457" cy="297" r="1.55"/>
+   <circle id="_169862240" class="fil0 str0" cx="329.377" cy="297" r="1.55"/>
+   <circle id="_169860536" class="fil0 str0" cx="324.297" cy="297" r="1.55"/>
+   <circle id="_169858136" class="fil0 str0" cx="314.138" cy="297" r="1.55"/>
+   <circle id="_169858520" class="fil0 str0" cx="309.058" cy="297" r="1.55"/>
+   <circle id="_169858496" class="fil0 str0" cx="303.978" cy="297" r="1.55"/>
+   <circle id="_169859912" class="fil0 str0" cx="298.898" cy="297" r="1.55"/>
+   <circle id="_169859744" class="fil0 str0" cx="293.818" cy="297" r="1.55"/>
+   <circle id="_169859552" class="fil0 str0" cx="288.738" cy="297" r="1.55"/>
+   <circle id="_169859336" class="fil0 str0" cx="283.658" cy="297" r="1.55"/>
+   <circle id="_169859144" class="fil0 str0" cx="349.697" cy="297" r="1.55"/>
+   <circle id="_169858952" class="fil0 str0" cx="354.777" cy="297" r="1.55"/>
+  </g>
+  <line class="fil0 str6" x1="314.138" y1="290.75" x2="314.138" y2= "303.25" />
+  <text x="286.087" y="288.864"  class="fil0 str4 fnt1">26</text>
+  <line class="fil0 str6" x1="288.738" y1="290.75" x2="288.738" y2= "303.25" />
+  <path class="fil0 str0" d="M255 403.2l0 -60c0,-2.761 2.239,-5 5,-5l100 0c2.761,0 5,2.239 5,5l0 60c0,2.761 -2.239,5 -5,5l-100 0c-2.761,0 -5,-2.239 -5,-5z"/>
+  <circle class="fil0 str0" cx="344.617" cy="373.2" r="1.55"/>
+  <circle class="fil0 str0" cx="319.217" cy="373.2" r="1.55"/>
+  <circle class="fil0 str0" cx="339.537" cy="373.2" r="1.55"/>
+  <circle class="fil0 str0" cx="334.457" cy="373.2" r="1.55"/>
+  <circle class="fil0 str0" cx="329.377" cy="373.2" r="1.55"/>
+  <circle class="fil0 str0" cx="324.297" cy="373.2" r="1.55"/>
+  <circle class="fil0 str0" cx="314.138" cy="373.2" r="1.55"/>
+  <circle class="fil0 str0" cx="309.058" cy="373.2" r="1.55"/>
+  <circle class="fil0 str0" cx="303.978" cy="373.2" r="1.55"/>
+  <circle class="fil0 str0" cx="298.898" cy="373.2" r="1.55"/>
+  <circle class="fil0 str0" cx="293.818" cy="373.2" r="1.55"/>
+  <circle class="fil0 str0" cx="288.738" cy="373.2" r="1.55"/>
+  <circle class="fil0 str0" cx="283.658" cy="373.2" r="1.55"/>
+  <circle class="fil0 str0" cx="349.697" cy="373.2" r="1.55"/>
+  <circle class="fil0 str0" cx="354.777" cy="373.2" r="1.55"/>
+  <path class="fil0 str0" d="M255 479.4l0 -22.6122 110 0 0 22.6122c0,2.761 -2.239,5 -5,5l-100 0c-2.761,0 -5,-2.239 -5,-5zm0 -37.3879l0 -22.6121c0,-2.761 2.239,-5 5,-5l100 0c2.761,0 5,2.239 5,5l0 22.6121 -110 0z"/>
+  <path class="fil0 str0" d="M-55 473l0 -23.75 110 0 0 23.75c0,2.761 -2.239,5 -5,5l-100 0c-2.761,0 -5,-2.239 -5,-5zm0 -36.25l0 -23.75c0,-2.761 2.239,-5 5,-5l100 0c2.761,0 5,2.239 5,5l0 23.75 -110 0z"/>
+  <g id="_170978168">
+   <rect id="_170982344" class="fil1 str1" x="424.143" y="289.613" width="0.669997" height="14.7756"/>
+   <rect id="_170982368" class="fil1 str1" x="426.683" y="289.613" width="0.669997" height="14.7756"/>
+   <rect id="_170976584" class="fil1 str1" x="429.223" y="289.613" width="0.669997" height="14.7756"/>
+   <rect id="_170981000" class="fil1 str1" x="431.763" y="289.613" width="0.669997" height="14.7756"/>
+   <rect id="_170980568" class="fil1 str1" x="434.303" y="289.613" width="0.669997" height="14.7756"/>
+   <rect id="_170980928" class="fil1 str1" x="436.843" y="289.613" width="0.669997" height="14.7756"/>
+   <rect id="_170980496" class="fil1 str1" x="439.383" y="289.613" width="0.669997" height="14.7756"/>
+   <rect id="_170980280" class="fil1 str1" x="406.363" y="289.613" width="0.669997" height="14.7756"/>
+   <rect id="_170980736" class="fil1 str1" x="408.903" y="289.613" width="0.669997" height="14.7756"/>
+   <rect id="_170980904" class="fil1 str1" x="411.443" y="289.613" width="0.669997" height="14.7756"/>
+   <rect id="_170980136" class="fil1 str1" x="413.983" y="289.613" width="0.669997" height="14.7756"/>
+   <rect id="_170979920" class="fil1 str1" x="416.523" y="289.613" width="0.669997" height="14.7756"/>
+   <rect id="_170977184" class="fil1 str1" x="419.063" y="289.613" width="0.669997" height="14.7756"/>
+   <rect id="_170977472" class="fil1 str1" x="421.603" y="289.613" width="0.669997" height="14.7756"/>
+   <rect id="_170978504" class="fil1 str1" x="403.823" y="289.613" width="0.669997" height="14.7756"/>
+   <rect id="_170977208" class="fil1 str1" x="393.663" y="289.613" width="0.669997" height="14.7756"/>
+   <rect id="_170979176" class="fil1 str1" x="396.203" y="289.613" width="0.669997" height="14.7756"/>
+   <rect id="_170979800" class="fil1 str1" x="398.743" y="289.613" width="0.669997" height="14.7756"/>
+   <rect id="_170979488" class="fil1 str1" x="401.283" y="289.613" width="0.669997" height="14.7756"/>
+   <rect id="_170979872" class="fil1 str1" x="391.123" y="289.613" width="0.669997" height="14.7756"/>
+   <rect id="_170979680" class="fil1 str1" x="380.963" y="289.613" width="0.669997" height="14.7756"/>
+   <rect id="_170979752" class="fil1 str1" x="383.503" y="289.613" width="0.669997" height="14.7756"/>
+   <rect id="_170981552" class="fil1 str1" x="386.043" y="289.613" width="0.669997" height="14.7756"/>
+   <rect id="_170979560" class="fil1 str1" x="388.583" y="289.613" width="0.669997" height="14.7756"/>
+   <rect id="_170979584" class="fil1 str1" x="444.463" y="289.613" width="0.669997" height="14.7756"/>
+   <rect id="_170979416" class="fil1 str1" x="447.003" y="289.613" width="0.669997" height="14.7756"/>
+   <rect id="_170979344" class="fil1 str1" x="449.543" y="289.613" width="0.669997" height="14.7756"/>
+   <rect id="_170979128" class="fil1 str1" x="452.083" y="289.613" width="0.669997" height="14.7756"/>
+   <rect id="_170979056" class="fil1 str1" x="441.923" y="289.613" width="0.669997" height="14.7756"/>
+   <rect id="_170978888" class="fil1 str1" x="457.163" y="289.613" width="0.669997" height="14.7756"/>
+   <rect id="_170978696" class="fil1 str1" x="459.703" y="289.613" width="0.669997" height="14.7756"/>
+   <rect id="_170978648" class="fil1 str1" x="462.243" y="289.613" width="0.669997" height="14.7756"/>
+   <rect id="_170976992" class="fil1 str1" x="464.783" y="289.613" width="0.669997" height="14.7756"/>
+   <rect id="_170976800" class="fil1 str1" x="454.623" y="289.613" width="0.669997" height="14.7756"/>
+   <rect id="_170978456" class="fil1 str1" x="469.863" y="289.613" width="0.669997" height="14.7756"/>
+   <rect id="_170978384" class="fil1 str1" x="467.323" y="289.613" width="0.669997" height="14.7756"/>
+   <polygon id="_170978216" class="fil2 str2" points="380.028,298.237 471.468,298.237 471.468,295.737 380.028,295.737 "/>
+  </g>
+  <g id="_170977736">
+   <circle id="_170978072" class="fil0 str0" cx="46.9999" cy="470" r="2.99995"/>
+   <circle id="_170977976" class="fil0 str0" cx="-47.0001" cy="470" r="2.99995"/>
+   <circle id="_170977880" class="fil0 str0" cx="-47.0001" cy="416" r="2.99995"/>
+   <circle id="_170977784" class="fil0 str0" cx="46.9999" cy="416" r="2.99995"/>
+  </g>
+  <g id="_170977256">
+   <circle id="_170977640" class="fil0 str0" cx="357" cy="324" r="2.99995"/>
+   <circle id="_170977544" class="fil0 str0" cx="263" cy="324" r="2.99995"/>
+   <circle id="_170977448" class="fil0 str0" cx="263" cy="270" r="2.99995"/>
+   <circle id="_170977328" class="fil0 str0" cx="357" cy="270" r="2.99995"/>
+  </g>
+  <g id="_170982800">
+   <circle id="_170977160" class="fil0 str0" cx="357" cy="400.2" r="2.99995"/>
+   <circle id="_170977016" class="fil0 str0" cx="263" cy="400.2" r="2.99995"/>
+   <circle id="_170983016" class="fil0 str0" cx="263" cy="346.2" r="2.99995"/>
+   <circle id="_170982968" class="fil0 str0" cx="357" cy="346.2" r="2.99995"/>
+  </g>
+  <g id="_170983496">
+   <circle id="_170983136" class="fil0 str0" cx="357" cy="476.4" r="2.99995"/>
+   <circle id="_170983232" class="fil0 str0" cx="263" cy="476.4" r="2.99995"/>
+   <circle id="_170983352" class="fil0 str0" cx="263" cy="422.4" r="2.99995"/>
+   <circle id="_170983448" class="fil0 str0" cx="357" cy="422.4" r="2.99995"/>
+  </g>
+  <g id="_170978336">
+   <text x="-0.1799" y="327.057" id="_170983712" class="fil0 str4 fnt0">WHSN</text>
+   <path id="_170980952" class="fil0 str0" d="M-55 327l0 -60c0,-2.761 2.239,-5 5,-5l100 0c2.761,0 5,2.239 5,5l0 60c0,2.761 -2.239,5 -5,5l-100 0c-2.761,0 -5,-2.239 -5,-5z"/>
    <g>
-    <circle id="_165335840" class="fil0 str0" cx="630.239" cy="12.0625" r="2.54378"/>
-    <circle id="_165335792" class="fil0 str0" cx="646.913" cy="12.0625" r="2.54378"/>
+    <text x="28.295" y="288.37" id="_170980688" class="fil0 str4 fnt1">6</text>
+    <text x="1.824" y="288.864" id="_170981672" class="fil0 str4 fnt1">16</text>
+    <line id="_170981696" class="fil0 str6" x1="29.5375" y1="290.75" x2="29.5375" y2= "303.25" />
    </g>
-   <line id="_165335696" class="fil0 str6" x1="638.576" y1="23.9608" x2="638.576" y2= "0.164115" />
-   <g transform="matrix(-1 -0 -0 -1 1049.56 -141)">
-    <text x="376.887" y="-151.232" id="_165335576" class="fil0 str4 fnt3">even</text>
+   <g>
+    <circle id="_170981744" class="fil0 str0" cx="34.6175" cy="297" r="1.55"/>
+    <circle id="_170981168" class="fil0 str0" cx="9.2175" cy="297" r="1.55"/>
+    <circle id="_170981336" class="fil0 str0" cx="29.5375" cy="297" r="1.55"/>
+    <circle id="_170981192" class="fil0 str0" cx="24.4575" cy="297" r="1.55"/>
+    <circle id="_170981816" class="fil0 str0" cx="19.3775" cy="297" r="1.55"/>
+    <circle id="_170981360" class="fil0 str0" cx="14.2975" cy="297" r="1.55"/>
+    <circle id="_170981864" class="fil0 str0" cx="4.1375" cy="297" r="1.55"/>
+    <circle id="_170981432" class="fil0 str0" cx="-0.9425" cy="297" r="1.55"/>
+    <circle id="_170980760" class="fil0 str0" cx="-6.0225" cy="297" r="1.55"/>
+    <circle id="_170981960" class="fil0 str0" cx="-11.1025" cy="297" r="1.55"/>
+    <circle id="_170983760" class="fil0 str0" cx="-16.1825" cy="297" r="1.55"/>
+    <circle id="_170983616" class="fil0 str0" cx="-21.2625" cy="297" r="1.55"/>
+    <circle id="_170983304" class="fil0 str0" cx="-26.3425" cy="297" r="1.55"/>
+    <circle id="_170983424" class="fil0 str0" cx="39.6975" cy="297" r="1.55"/>
+    <circle id="_170983328" class="fil0 str0" cx="44.7775" cy="297" r="1.55"/>
    </g>
-   <circle id="_165335528" class="fil0 str0" cx="790.186" cy="12.0625" r="2.54378"/>
-   <circle id="_165332216" class="fil0 str0" cx="773.512" cy="12.0625" r="2.54378"/>
-   <line id="_165333224" class="fil0 str6" x1="786.017" y1="0.164115" x2="786.017" y2= "23.9608" />
-   <text x="752.055" y="15.254" id="_165333320" class="fil0 str4 fnt3">odd</text>
+   <line id="_170983160" class="fil0 str6" x1="4.1375" y1="290.75" x2="4.1375" y2= "303.25" />
+   <text x="-23.9125" y="288.864" id="_170982944" class="fil0 str4 fnt1">26</text>
+   <line id="_170982824" class="fil0 str6" x1="-21.2625" y1="290.75" x2="-21.2625" y2= "303.25" />
+   <g>
+    <circle id="_170977040" class="fil0 str0" cx="46.9999" cy="324" r="2.99995"/>
+    <circle id="_170978864" class="fil0 str0" cx="-47.0001" cy="324" r="2.99995"/>
+    <circle id="_170977280" class="fil0 str0" cx="-47.0001" cy="270" r="2.99995"/>
+    <circle id="_170977400" class="fil0 str0" cx="46.9999" cy="270" r="2.99995"/>
+   </g>
+   <circle id="_170978360" class="fil0 str0" cx="-31.4225" cy="297" r="1.55"/>
+   <circle id="_170977712" class="fil0 str0" cx="-36.5025" cy="297" r="1.55"/>
+   <circle id="_170977808" class="fil0 str0" cx="-41.5825" cy="297" r="1.55"/>
+   <circle id="_170977904" class="fil0 str0" cx="-46.6625" cy="297" r="1.55"/>
+   <line id="_170978048" class="fil0 str6" x1="-46.6625" y1="290.75" x2="-46.6625" y2= "303.25" />
+   <text x="-49.2977" y="288.864" id="_170978288" class="fil0 str4 fnt1">36</text>
+  </g>
+  <g id="_170979896">
+   <polygon id="_170976824" class="fil0 str0" points="-55,246.75 55,246.75 55,259.25 -55,259.25 "/>
+   <g>
+    <circle id="_170976704" class="fil0 str0" cx="50" cy="253" r="1.55"/>
+    <circle id="_170978600" class="fil0 str0" cx="39.84" cy="253" r="1.55"/>
+   </g>
+   <line id="_170978624" class="fil0 str6" x1="44.92" y1="246.75" x2="44.92" y2= "259.25" />
+   <text x="24.1408" y="254.116" id="_170979536" class="fil0 str4 fnt1">even</text>
+   <circle id="_170979032" class="fil0 str0" cx="-47.46" cy="253" r="1.55"/>
+   <circle id="_170979008" class="fil0 str0" cx="-37.3" cy="253" r="1.55"/>
+   <line id="_170979272" class="fil0 str6" x1="-44.92" y1="259.25" x2="-44.92" y2= "246.75" />
+   <g transform="matrix(-1 -0 -0 -1 80.7746 399.555)">
+    <text x="105" y="148.5" id="_170979776" class="fil0 str4 fnt1">odd</text>
+   </g>
+  </g>
+  <text x="-75.7157" y="299.121"  class="fil3 fnt2">top</text>
+  <text x="-89.8297" y="372.121"  class="fil3 fnt2">bottom</text>
+  <text x="-88.8871" y="445.121"  class="fil3 fnt2">middle</text>
+  <text x="-124.648" y="255.121"  class="fil3 fnt2">adjustment stick</text>
+  <g id="_167530992">
+   <polygon id="_167528808" class="fil0 str0" points="364.375,255.25 254.375,255.25 254.375,240.75 364.375,240.75 "/>
+   <g>
+    <circle id="_167528904" class="fil0 str0" cx="259.375" cy="248" r="1.55"/>
+    <circle id="_167529120" class="fil0 str0" cx="269.535" cy="248" r="1.55"/>
+   </g>
+   <line id="_167530248" class="fil0 str6" x1="264.455" y1="255.25" x2="264.455" y2= "240.75" />
+   <g transform="matrix(-1 -0 -0 -1 390.234 395.384)">
+    <text x="105" y="148.5" id="_167528400" class="fil0 str4 fnt3">even</text>
+   </g>
+   <circle id="_167528184" class="fil0 str0" cx="356.835" cy="248" r="1.55"/>
+   <circle id="_167529216" class="fil0 str0" cx="346.675" cy="248" r="1.55"/>
+   <line id="_167529552" class="fil0 str6" x1="354.295" y1="240.75" x2="354.295" y2= "255.25" />
+   <text x="333.6" y="249.945" id="_167529072" class="fil0 str4 fnt3">odd</text>
   </g>
  </g>
 </svg>

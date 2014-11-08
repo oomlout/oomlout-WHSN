@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <!-- Creator: CorelDRAW -->
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="186.887mm" height="245.911mm" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
-viewBox="0 0 88.0237 115.824"
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="210mm" height="297mm" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 210 297"
  xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
   <font id="FontID1" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="400">
@@ -38,7 +38,7 @@ viewBox="0 0 88.0237 115.824"
    <glyph unicode="p" horiz-adv-x="556"><path d="M65.9997 -198.672l0 717.174 79.9957 0 0 -67.3344c18.8385,26.3267 40.1691,46.1691 64.0037,59.3383 23.6692,13.1574 52.4998,19.8306 86.3382,19.8306 44.3266,0 83.3264,-11.5039 117.165,-34.1692 33.992,-22.8306 59.4919,-55.0037 76.6651,-96.4957 17.3385,-41.5038 25.996,-86.9997 25.996,-136.499 0,-53.0077 -9.49603,-100.842 -28.6652,-143.338 -19.0039,-42.4959 -46.6652,-74.9997 -82.9957,-97.665 -36.3306,-22.4999 -74.5036,-33.8384 -114.507,-33.8384 -29.3267,0 -55.4998,6.16533 -78.8265,18.5078 -23.3385,12.3307 -42.3305,27.992 -57.3305,46.8305l0 -252.342 -87.8382 0zm79.4997 455.006c0,-66.6612 13.4999,-115.996 40.4998,-148.003 26.9999,-31.8306 59.8344,-47.8345 98.1728,-47.8345 38.9998,0 72.4958,16.4999 100.322,49.6652 27.8385,32.9999 41.8345,84.1768 41.8345,153.507 0,66.1651 -13.6653,115.5 -40.8305,148.499 -27.1652,32.8345 -59.6691,49.3345 -97.3343,49.3345 -37.4999,0 -70.6651,-17.5039 -99.4957,-52.4998 -28.8306,-35.0077 -43.1691,-86.0075 -43.1691,-152.669z"/></glyph>
    <glyph unicode="t" horiz-adv-x="277"><path d="M257.834 78.6611l12.6614 -77.6572c-24.6613,-5.17321 -46.8305,-7.84249 -66.3304,-7.84249 -31.9959,0 -56.6691,5.00785 -74.3265,15.1771 -17.5039,9.99209 -29.8345,23.3267 -37.0038,39.8266 -7.16926,16.3346 -10.8307,50.9998 -10.8307,103.665l0 298.333 -64.4997 0 0 68.3383 64.4997 0 0 128.503 87.4957 52.6651 0 -181.169 88.3343 0 0 -68.3383 -88.3343 0 0 -303.164c0,-25.1692 1.49999,-41.1613 4.49998,-48.3305 3.16534,-7.16926 8.1732,-12.8385 15.1653,-17.1732 7.00391,-4.15746 17.0078,-6.33068 29.9999,-6.33068 9.83854,0 22.6653,1.16929 38.6691,3.49605z"/></glyph>
   </font>
-  <font id="FontID0" font-variant="normal" class="str1" style="fill-rule:nonzero" font-weight="400">
+  <font id="FontID0" font-variant="normal" class="str1" style="fill-rule:nonzero" font-style="normal" font-weight="400">
 	<font-face 
 		font-family="Eng_HelvLine">
 	</font-face>
@@ -61,117 +61,117 @@ viewBox="0 0 88.0237 115.824"
    <![CDATA[
     @font-face { font-family:"Arial";src:url("#FontID1") format(svg)}
     @font-face { font-family:"Eng_HelvLine";src:url("#FontID0") format(svg)}
-    .str2 {stroke:#E77817;stroke-width:0.0358902}
-    .str0 {stroke:#1F1A17;stroke-width:0.0942001}
-    .str4 {stroke:#E77817;stroke-width:0.0942001}
-    .str1 {stroke-width:8.99997}
+    .str2 {stroke:#E77817;stroke-width:0.0762}
+    .str0 {stroke:#1F1A17;stroke-width:0.2}
+    .str4 {stroke:#E77817;stroke-width:0.2}
+    .str1 {stroke-width:9}
     .str3 {stroke-width:18.0001}
     .fil0 {fill:none}
     .fil1 {fill:#0093DD}
-    .fnt1 {font-weight:normal;font-size:1.99389;font-family:'Eng_HelvLine'}
-    .fnt2 {font-weight:normal;font-size:3.98782;font-family:'Arial'}
-    .fnt0 {font-weight:normal;font-size:3.98782;font-family:'Eng_HelvLine'}
+    .fnt1 {font-weight:normal;font-size:4.2333;font-family:'Eng_HelvLine'}
+    .fnt2 {font-weight:normal;font-size:8.4667;font-family:'Arial'}
+    .fnt0 {font-weight:normal;font-size:8.4667;font-family:'Eng_HelvLine'}
    ]]>
   </style>
  </defs>
  <g id="Layer_x0020_1">
   <metadata id="CorelCorpID_0Corel-Layer"/>
-  <g id="_167839912">
-   <path id="_167840896" class="fil0 str0" d="M36.1666 68.3421l0 -28.26c0,-1.30043 1.05457,-2.355 2.355,-2.355l47.1 0c1.30043,0 2.355,1.05457 2.355,2.355l0 28.26c0,1.30043 -1.05457,2.355 -2.355,2.355l-47.1 0c-1.30043,0 -2.355,-1.05457 -2.355,-2.355z"/>
+  <g id="_167164392">
+   <path id="_167165016" class="fil0 str0" d="M-16.6067 319.094l0 -60c0,-2.761 2.239,-5 5,-5l100 0c2.761,0 5,2.239 5,5l0 60c0,2.761 -2.239,5 -5,5l-100 0c-2.761,0 -5,-2.239 -5,-5z"/>
    <g>
-    <circle id="_167840848" class="fil0 str0" cx="78.3764" cy="54.2121" r="0.73005"/>
-    <circle id="_167840800" class="fil0 str0" cx="66.413" cy="54.2121" r="0.73005"/>
-    <circle id="_167840752" class="fil0 str0" cx="75.9837" cy="54.2121" r="0.73005"/>
-    <circle id="_167840704" class="fil0 str0" cx="73.5911" cy="54.2121" r="0.73005"/>
-    <circle id="_167840656" class="fil0 str0" cx="71.1984" cy="54.2121" r="0.73005"/>
-    <circle id="_167840608" class="fil0 str0" cx="68.8057" cy="54.2121" r="0.73005"/>
-    <circle id="_167840560" class="fil0 str0" cx="64.0203" cy="54.2121" r="0.73005"/>
-    <circle id="_167840512" class="fil0 str0" cx="61.6277" cy="54.2121" r="0.73005"/>
-    <circle id="_167840464" class="fil0 str0" cx="59.235" cy="54.2121" r="0.73005"/>
-    <circle id="_167840416" class="fil0 str0" cx="56.8423" cy="54.2121" r="0.73005"/>
-    <circle id="_167840368" class="fil0 str0" cx="54.4496" cy="54.2121" r="0.73005"/>
-    <circle id="_167840320" class="fil0 str0" cx="52.0569" cy="54.2121" r="0.73005"/>
-    <circle id="_167840272" class="fil0 str0" cx="49.6642" cy="54.2121" r="0.73005"/>
-    <circle id="_167840224" class="fil0 str0" cx="80.7691" cy="54.2121" r="0.73005"/>
-    <circle id="_167840176" class="fil0 str0" cx="83.1618" cy="54.2121" r="0.73005"/>
+    <circle id="_167163240" class="fil0 str0" cx="73.0108" cy="289.094" r="1.55"/>
+    <circle id="_167162952" class="fil0 str0" cx="47.6108" cy="289.094" r="1.55"/>
+    <circle id="_167163384" class="fil0 str0" cx="67.9308" cy="289.094" r="1.55"/>
+    <circle id="_167163360" class="fil0 str0" cx="62.8508" cy="289.094" r="1.55"/>
+    <circle id="_167164848" class="fil0 str0" cx="57.7708" cy="289.094" r="1.55"/>
+    <circle id="_167164536" class="fil0 str0" cx="52.6908" cy="289.094" r="1.55"/>
+    <circle id="_167163168" class="fil0 str0" cx="42.5308" cy="289.094" r="1.55"/>
+    <circle id="_167164560" class="fil0 str0" cx="37.4508" cy="289.094" r="1.55"/>
+    <circle id="_167164896" class="fil0 str0" cx="32.3708" cy="289.094" r="1.55"/>
+    <circle id="_167165376" class="fil0 str0" cx="27.2908" cy="289.094" r="1.55"/>
+    <circle id="_167164824" class="fil0 str0" cx="22.2108" cy="289.094" r="1.55"/>
+    <circle id="_167163432" class="fil0 str0" cx="17.1308" cy="289.094" r="1.55"/>
+    <circle id="_167163480" class="fil0 str0" cx="12.0508" cy="289.094" r="1.55"/>
+    <circle id="_167163624" class="fil0 str0" cx="78.0908" cy="289.094" r="1.55"/>
+    <circle id="_167163120" class="fil0 str0" cx="83.1708" cy="289.094" r="1.55"/>
    </g>
    <g>
-    <circle id="_167840104" class="fil0 str0" cx="84.2085" cy="66.9291" r="1.41298"/>
-    <circle id="_167840056" class="fil0 str0" cx="39.9345" cy="66.9291" r="1.41298"/>
-    <circle id="_167840008" class="fil0 str0" cx="39.9345" cy="41.4951" r="1.41298"/>
-    <circle id="_167839960" class="fil0 str0" cx="84.2085" cy="41.4951" r="1.41298"/>
+    <circle id="_167163888" class="fil0 str0" cx="85.3932" cy="316.094" r="2.99995"/>
+    <circle id="_167163216" class="fil0 str0" cx="-8.60681" cy="316.094" r="2.99995"/>
+    <circle id="_167164416" class="fil0 str0" cx="-8.60681" cy="262.094" r="2.99995"/>
+    <circle id="_167163192" class="fil0 str0" cx="85.3932" cy="262.094" r="2.99995"/>
    </g>
   </g>
-  <path class="fil0 str0" d="M36.1666 30.6621l0 -11.1863 51.81 0 0 11.1863c0,1.30043 -1.05457,2.355 -2.355,2.355l-47.1 0c-1.30043,0 -2.355,-1.05457 -2.355,-2.355zm0 -17.0738l0 -11.1863c0,-1.30043 1.05457,-2.355 2.355,-2.355l47.1 0c1.30043,0 2.355,1.05457 2.355,2.355l0 11.1863 -51.81 0z"/>
-  <g id="_167836576">
-   <text x="61.9868" y="102.752" id="_167839744" class="fil0 str2 fnt0">WHSN</text>
-   <path id="_167839696" class="fil0 str0" d="M36.1666 102.725l0 -28.26c0,-1.30043 1.05457,-2.355 2.355,-2.355l47.1 0c1.30043,0 2.355,1.05457 2.355,2.355l0 28.26c0,1.30043 -1.05457,2.355 -2.355,2.355l-47.1 0c-1.30043,0 -2.355,-1.05457 -2.355,-2.355z"/>
+  <path class="fil0 str0" d="M-16.6067 239.094l0 -23.75 110 0 0 23.75c0,2.761 -2.239,5 -5,5l-100 0c-2.761,0 -5,-2.239 -5,-5zm0 -36.25l0 -23.75c0,-2.761 2.239,-5 5,-5l100 0c2.761,0 5,2.239 5,5l0 23.75 -110 0z"/>
+  <g id="_167529720">
+   <text x="38.2134" y="392.151" id="_167163720" class="fil0 str2 fnt0">WHSN</text>
+   <path id="_167163744" class="fil0 str0" d="M-16.6067 392.094l0 -60c0,-2.761 2.239,-5 5,-5l100 0c2.761,0 5,2.239 5,5l0 60c0,2.761 -2.239,5 -5,5l-100 0c-2.761,0 -5,-2.239 -5,-5z"/>
    <g>
-    <text x="75.3985" y="84.5304" id="_167839576" class="fil0 str2 fnt1">6</text>
-    <text x="62.9307" y="84.7629" id="_167839456" class="fil0 str2 fnt1">16</text>
-    <line id="_167839384" class="fil0 str4" x1="75.9837" y1="85.6514" x2="75.9837" y2= "91.5389" />
+    <text x="66.6883" y="353.464" id="_167164464" class="fil0 str2 fnt1">6</text>
+    <text x="40.2173" y="353.958" id="_167163600" class="fil0 str2 fnt1">16</text>
+    <line id="_167163648" class="fil0 str4" x1="67.9308" y1="355.844" x2="67.9308" y2= "368.344" />
    </g>
    <g>
-    <circle id="_167839312" class="fil0 str0" cx="78.3764" cy="88.5952" r="0.73005"/>
-    <circle id="_167838808" class="fil0 str0" cx="66.413" cy="88.5952" r="0.73005"/>
-    <circle id="_167838784" class="fil0 str0" cx="75.9837" cy="88.5952" r="0.73005"/>
-    <circle id="_167838640" class="fil0 str0" cx="73.5911" cy="88.5952" r="0.73005"/>
-    <circle id="_167838592" class="fil0 str0" cx="71.1984" cy="88.5952" r="0.73005"/>
-    <circle id="_167838544" class="fil0 str0" cx="68.8057" cy="88.5952" r="0.73005"/>
-    <circle id="_167838496" class="fil0 str0" cx="64.0203" cy="88.5952" r="0.73005"/>
-    <circle id="_167838448" class="fil0 str0" cx="61.6277" cy="88.5952" r="0.73005"/>
-    <circle id="_167838832" class="fil0 str0" cx="59.235" cy="88.5952" r="0.73005"/>
-    <circle id="_167839048" class="fil0 str0" cx="56.8423" cy="88.5952" r="0.73005"/>
-    <circle id="_167838400" class="fil0 str0" cx="54.4496" cy="88.5952" r="0.73005"/>
-    <circle id="_167838376" class="fil0 str0" cx="52.0569" cy="88.5952" r="0.73005"/>
-    <circle id="_167838112" class="fil0 str0" cx="49.6642" cy="88.5952" r="0.73005"/>
-    <circle id="_167838232" class="fil0 str0" cx="80.7691" cy="88.5952" r="0.73005"/>
-    <circle id="_167834872" class="fil0 str0" cx="83.1618" cy="88.5952" r="0.73005"/>
+    <circle id="_167164992" class="fil0 str0" cx="73.0108" cy="362.094" r="1.55"/>
+    <circle id="_167164776" class="fil0 str0" cx="47.6108" cy="362.094" r="1.55"/>
+    <circle id="_167163504" class="fil0 str0" cx="67.9308" cy="362.094" r="1.55"/>
+    <circle id="_167165064" class="fil0 str0" cx="62.8508" cy="362.094" r="1.55"/>
+    <circle id="_167165088" class="fil0 str0" cx="57.7708" cy="362.094" r="1.55"/>
+    <circle id="_167163840" class="fil0 str0" cx="52.6908" cy="362.094" r="1.55"/>
+    <circle id="_167163264" class="fil0 str0" cx="42.5308" cy="362.094" r="1.55"/>
+    <circle id="_167163672" class="fil0 str0" cx="37.4508" cy="362.094" r="1.55"/>
+    <circle id="_167162904" class="fil0 str0" cx="32.3708" cy="362.094" r="1.55"/>
+    <circle id="_167162760" class="fil0 str0" cx="27.2908" cy="362.094" r="1.55"/>
+    <circle id="_167164272" class="fil0 str0" cx="22.2108" cy="362.094" r="1.55"/>
+    <circle id="_167164440" class="fil0 str0" cx="17.1308" cy="362.094" r="1.55"/>
+    <circle id="_167165232" class="fil0 str0" cx="12.0508" cy="362.094" r="1.55"/>
+    <circle id="_167164656" class="fil0 str0" cx="78.0908" cy="362.094" r="1.55"/>
+    <circle id="_167165040" class="fil0 str0" cx="83.1708" cy="362.094" r="1.55"/>
    </g>
-   <line id="_167834776" class="fil0 str4" x1="64.0203" y1="85.6514" x2="64.0203" y2= "91.5389" />
-   <text x="50.8088" y="84.7629" id="_167837488" class="fil0 str2 fnt1">26</text>
-   <line id="_167837512" class="fil0 str4" x1="52.0569" y1="85.6514" x2="52.0569" y2= "91.5389" />
+   <line id="_167163288" class="fil0 str4" x1="42.5308" y1="355.844" x2="42.5308" y2= "368.344" />
+   <text x="14.4808" y="353.958" id="_167163144" class="fil0 str2 fnt1">26</text>
+   <line id="_167530992" class="fil0 str4" x1="17.1308" y1="355.844" x2="17.1308" y2= "368.344" />
    <g>
-    <circle id="_167837416" class="fil0 str0" cx="84.2085" cy="101.312" r="1.41298"/>
-    <circle id="_167837392" class="fil0 str0" cx="39.9345" cy="101.312" r="1.41298"/>
-    <circle id="_167837296" class="fil0 str0" cx="39.9345" cy="75.8781" r="1.41298"/>
-    <circle id="_167837320" class="fil0 str0" cx="84.2085" cy="75.8781" r="1.41298"/>
+    <circle id="_167530920" class="fil0 str0" cx="85.3932" cy="389.094" r="2.99995"/>
+    <circle id="_167530848" class="fil0 str0" cx="-8.60681" cy="389.094" r="2.99995"/>
+    <circle id="_167530800" class="fil0 str0" cx="-8.60681" cy="335.094" r="2.99995"/>
+    <circle id="_167530752" class="fil0 str0" cx="85.3932" cy="335.094" r="2.99995"/>
    </g>
-   <circle id="_167837248" class="fil0 str0" cx="47.2716" cy="88.5952" r="0.73005"/>
-   <circle id="_167836312" class="fil0 str0" cx="44.8789" cy="88.5952" r="0.73005"/>
-   <circle id="_167836384" class="fil0 str0" cx="42.4862" cy="88.5952" r="0.73005"/>
-   <circle id="_167836360" class="fil0 str0" cx="40.0935" cy="88.5952" r="0.73005"/>
-   <line id="_167837272" class="fil0 str4" x1="40.0935" y1="85.6514" x2="40.0935" y2= "91.5389" />
-   <text x="38.8523" y="84.7629" id="_167836624" class="fil0 str2 fnt1">36</text>
+   <circle id="_167530680" class="fil0 str0" cx="6.9708" cy="362.094" r="1.55"/>
+   <circle id="_167530632" class="fil0 str0" cx="1.8908" cy="362.094" r="1.55"/>
+   <circle id="_167530896" class="fil0 str0" cx="-3.1892" cy="362.094" r="1.55"/>
+   <circle id="_167530608" class="fil0 str0" cx="-8.2692" cy="362.094" r="1.55"/>
+   <line id="_167530944" class="fil0 str4" x1="-8.2692" y1="355.844" x2="-8.2692" y2= "368.344" />
+   <text x="-10.9044" y="353.958" id="_167530200" class="fil0 str2 fnt1">36</text>
   </g>
-  <g id="_167834032">
-   <polygon id="_167836696" class="fil0 str0" points="36.1666,109.201 87.9766,109.201 87.9766,115.089 36.1666,115.089 "/>
+  <g id="_167529792">
+   <polygon id="_167529408" class="fil0 str0" points="-16.6067,405.844 93.3933,405.844 93.3933,418.344 -16.6067,418.344 "/>
    <g>
-    <circle id="_167836672" class="fil0 str0" cx="85.6216" cy="112.145" r="0.73005"/>
-    <circle id="_167836600" class="fil0 str0" cx="80.8362" cy="112.145" r="0.73005"/>
+    <circle id="_167527872" class="fil0 str0" cx="88.3933" cy="412.094" r="1.55"/>
+    <circle id="_167529312" class="fil0 str0" cx="78.2333" cy="412.094" r="1.55"/>
    </g>
-   <line id="_167833288" class="fil0 str4" x1="83.2289" y1="109.201" x2="83.2289" y2= "115.089" />
-   <text x="73.4419" y="112.671" id="_167833552" class="fil0 str2 fnt1">even</text>
-   <circle id="_167833648" class="fil0 str0" cx="39.7179" cy="112.145" r="0.73005"/>
-   <circle id="_167833792" class="fil0 str0" cx="44.5033" cy="112.145" r="0.73005"/>
-   <line id="_167833768" class="fil0 str4" x1="40.9142" y1="115.089" x2="40.9142" y2= "109.201" />
-   <g transform="matrix(-1 -0 -0 -1 144.105 99.2213)">
-    <text x="93.4434" y="-12.0079" id="_167833984" class="fil0 str2 fnt1">odd</text>
+   <line id="_167528664" class="fil0 str4" x1="83.3133" y1="405.844" x2="83.3133" y2= "418.344" />
+   <text x="62.5341" y="413.21" id="_167527632" class="fil0 str2 fnt1">even</text>
+   <circle id="_167528928" class="fil0 str0" cx="-9.0667" cy="412.094" r="1.55"/>
+   <circle id="_167530176" class="fil0 str0" cx="1.0933" cy="412.094" r="1.55"/>
+   <line id="_167530080" class="fil0 str4" x1="-6.5267" y1="418.344" x2="-6.5267" y2= "405.844" />
+   <g transform="matrix(-1 -0 -0 -1 119.168 558.65)">
+    <text x="105" y="148.5" id="_167529840" class="fil0 str2 fnt1">odd</text>
    </g>
   </g>
-  <text x="23.1912" y="87.7385"  class="fil1 fnt2">top</text>
-  <text x="10.7877" y="92.1935"  class="fil1 fnt2">WHSN-01</text>
-  <text x="16.594" y="54.8006"  class="fil1 fnt2">bottom</text>
-  <text x="10.8382" y="59.2557"  class="fil1 fnt2">WHSN-02</text>
-  <text x="16.9935" y="17.1206"  class="fil1 fnt2">middle</text>
-  <text x="10.7937" y="21.5757"  class="fil1 fnt2">WHSN-03</text>
-  <text x="-0" y="111.321"  class="fil1 fnt2">adjustment stick</text>
-  <text x="10.6435" y="115.776"  class="fil1 fnt2">WHSN-04</text>
-  <g id="_167835088">
-   <circle id="_167839120" class="fil0 str0" cx="84.2085" cy="29.2491" r="1.41298"/>
-   <circle id="_167835616" class="fil0 str0" cx="39.9345" cy="29.2491" r="1.41298"/>
-   <circle id="_167835256" class="fil0 str0" cx="39.9345" cy="3.8151" r="1.41298"/>
-   <circle id="_167837800" class="fil0 str0" cx="84.2085" cy="3.8151" r="1.41298"/>
+  <text x="-44.1552" y="360.276"  class="fil1 fnt2">top</text>
+  <text x="-70.4896" y="369.734"  class="fil1 fnt2">WHSN-01</text>
+  <text x="-58.162" y="290.344"  class="fil1 fnt2">bottom</text>
+  <text x="-70.3824" y="299.803"  class="fil1 fnt2">WHSN-02</text>
+  <text x="-57.3139" y="210.344"  class="fil1 fnt2">middle</text>
+  <text x="-70.4769" y="219.803"  class="fil1 fnt2">WHSN-03</text>
+  <text x="-93.3934" y="410.344"  class="fil1 fnt2">adjustment stick</text>
+  <text x="-70.7958" y="419.803"  class="fil1 fnt2">WHSN-04</text>
+  <g id="_167529960">
+   <circle id="_167528304" class="fil0 str0" cx="85.3932" cy="236.094" r="2.99995"/>
+   <circle id="_167528232" class="fil0 str0" cx="-8.60681" cy="236.094" r="2.99995"/>
+   <circle id="_167530560" class="fil0 str0" cx="-8.60681" cy="182.094" r="2.99995"/>
+   <circle id="_167529912" class="fil0 str0" cx="85.3932" cy="182.094" r="2.99995"/>
   </g>
  </g>
 </svg>
